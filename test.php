@@ -4,4 +4,5 @@
 	$c = 10;
 	$a = $b + $c;
 	echo "HELLO";
+	echo "Test";
 ?>
